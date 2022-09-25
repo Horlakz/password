@@ -10,5 +10,13 @@
     "clipboardy": "^3.0.0",
     "colors": "^1.4.0",
     "commander": "^9.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.21",
+    "@types/warning": "^3.0.0",
+    "lodash": "^4.17.21",
+    "lodash.mergewith": "^4.6.2",
+    "parse-json": "^6.0.2",
+    "ts-node": "^10.9.1"
   }
 }
