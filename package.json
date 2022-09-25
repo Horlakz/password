@@ -6,6 +6,9 @@
   "repository": "https://github.com/horlakz/password",
   "author": "Horlakz",
   "license": "MIT",
+  "scripts": {
+    "build": "tsc -p ."
+  },
   "dependencies": {
     "clipboardy": "^3.0.0",
     "colors": "^1.4.0",
