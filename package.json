@@ -10,9 +10,8 @@
     "build": "tsc -p ."
   },
   "dependencies": {
-    "clipboardy": "^3.0.0",
-    "colors": "^1.4.0",
-    "commander": "^9.4.0"
+    "clipboardy": "2.3.0",
+    "colors": "^1.4.0"
   },
   "devDependencies": {
     "@types/node": "^18.7.21",
