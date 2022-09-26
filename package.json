@@ -3,6 +3,8 @@
   "version": "0.0.1",
   "description": "A command line password generator and copy generated password to clipboard",
   "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./build/index.js",
   "repository": "https://github.com/horlakz/password",
   "author": "Horlakz",
   "license": "MIT",
