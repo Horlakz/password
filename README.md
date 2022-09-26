@@ -10,11 +10,12 @@ clone/download the project
 $ git clone https://github.com/horlakz/password.git
 ```
 
-install the project
+install the project (make sure you have typescript installed on your pc)
 
 ```bash
 $ cd password
 $ npm install
+$ npm run build
 $ npm link
 ```
 
